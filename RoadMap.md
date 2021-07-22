@@ -98,10 +98,28 @@ Facebook: https://www.facebook.com/codebasicshub
 Twitter: https://twitter.com/codebasicshub
 
 Projects: https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512
-
+https://hackr.io/blog/python-projects
 
 
 My Start Date: 18 July 2021
+
+Python dataTypes:
+
+1. Numeric
+    integer
+    float
+    complex number
+   
+2. Dictionary
+
+3. Set
+
+4. sequence type
+    string
+    list
+    tuple
+   
+5. Boolean
 
 
     
